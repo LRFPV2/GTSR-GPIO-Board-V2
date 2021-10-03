@@ -6867,7 +6867,6 @@ naming: grid - package width</description>
 <part name="P+22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="P+23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="P+24" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
-<part name="X5" library="gtsr-connector" deviceset="MICRO-FIT_3.0_6POS" device="_2ROW"/>
 </parts>
 <sheets>
 <sheet>
@@ -7617,10 +7616,6 @@ naming: grid - package width</description>
 </instance>
 <instance part="P+24" gate="VCC" x="431.8" y="-193.04" smashed="yes">
 <attribute name="VALUE" x="429.26" y="-195.58" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="X5" gate="G$1" x="-91.44" y="-106.68" smashed="yes">
-<attribute name="NAME" x="-86.36" y="-86.106" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-86.36" y="-106.68" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -9626,78 +9621,6 @@ naming: grid - package width</description>
 <pinref part="R32" gate="G$1" pin="1"/>
 <pinref part="R31" gate="G$1" pin="2"/>
 <wire x1="256.54" y1="-332.74" x2="254" y2="-332.74" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="GPIOEXT0" class="0">
-<segment>
-<pinref part="X5" gate="G$1" pin="1"/>
-<wire x1="-91.44" y1="-88.9" x2="-104.14" y2="-88.9" width="0.1524" layer="91"/>
-<label x="-104.14" y="-88.9" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="47-PB2/I2C0SCL/T3CCP0"/>
-<wire x1="76.2" y1="2.54" x2="83.82" y2="2.54" width="0.1524" layer="91"/>
-<label x="83.82" y="2.54" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="GPIOEXT1" class="0">
-<segment>
-<pinref part="X5" gate="G$1" pin="2"/>
-<wire x1="-91.44" y1="-91.44" x2="-104.14" y2="-91.44" width="0.1524" layer="91"/>
-<label x="-104.14" y="-91.44" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="48-PB3/I2C0SDA/T3CCP1"/>
-<wire x1="76.2" y1="0" x2="83.82" y2="0" width="0.1524" layer="91"/>
-<label x="83.82" y="0" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="GPIOEXT3" class="0">
-<segment>
-<pinref part="X5" gate="G$1" pin="4"/>
-<wire x1="-91.44" y1="-96.52" x2="-104.14" y2="-96.52" width="0.1524" layer="91"/>
-<label x="-104.14" y="-96.52" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="5-PF4/IDX0/M1FAULT0/T2CCP0/USB0EPEN"/>
-<wire x1="-76.2" y1="27.94" x2="-83.82" y2="27.94" width="0.1524" layer="91"/>
-<label x="-83.82" y="27.94" size="1.778" layer="95" rot="R180"/>
-</segment>
-</net>
-<net name="GPIOEXT4" class="0">
-<segment>
-<pinref part="X5" gate="G$1" pin="5"/>
-<wire x1="-91.44" y1="-99.06" x2="-104.14" y2="-99.06" width="0.1524" layer="91"/>
-<label x="-104.14" y="-99.06" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="13-PC7/CO-/U3TX/USB0PFLT/WT1CCP1"/>
-<wire x1="-76.2" y1="7.62" x2="-83.82" y2="7.62" width="0.1524" layer="91"/>
-<label x="-83.82" y="7.62" size="1.778" layer="95" rot="R180"/>
-</segment>
-</net>
-<net name="GPIOEXT5" class="0">
-<segment>
-<pinref part="X5" gate="G$1" pin="6"/>
-<wire x1="-91.44" y1="-101.6" x2="-104.14" y2="-101.6" width="0.1524" layer="91"/>
-<label x="-104.14" y="-101.6" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="14-PC6/C0+/PHB1/U3RX/USB0EPEN/WT1CCP0"/>
-<wire x1="-76.2" y1="5.08" x2="-83.82" y2="5.08" width="0.1524" layer="91"/>
-<label x="-83.82" y="5.08" size="1.778" layer="95" rot="R180"/>
-</segment>
-</net>
-<net name="GPIOEXT2" class="0">
-<segment>
-<pinref part="X5" gate="G$1" pin="3"/>
-<wire x1="-91.44" y1="-93.98" x2="-104.14" y2="-93.98" width="0.1524" layer="91"/>
-<label x="-104.14" y="-93.98" size="1.778" layer="95" rot="R180"/>
-</segment>
-<segment>
-<pinref part="U1" gate="G$1" pin="4-PB7/M0PWM1/SSI2TX/T0CCP1"/>
-<wire x1="-76.2" y1="30.48" x2="-83.82" y2="30.48" width="0.1524" layer="91"/>
-<label x="-83.82" y="30.48" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 </nets>
