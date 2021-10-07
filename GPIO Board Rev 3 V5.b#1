@@ -1116,12 +1116,12 @@ design rules under a new name.</description>
 <board_group name="POT4"/>
 </groups>
 <elements>
-<element name="C1" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="-41.91" y="97.79" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM188R91E104KA37D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-40.132" y="97.79" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C1" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="57.912" y="8.128" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata Electronics" x="99.822" y="-89.662" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM188R91E104KA37D" x="99.822" y="-89.662" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="59.69" y="8.128" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="99.822" y="-89.662" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="99.822" y="-89.662" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C10" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="95.758" y="40.132" smashed="yes" rot="R90" grouprefs="POT2">
 <attribute name="MANUFACTURER" value="Murata Electronics" x="191.008" y="127.762" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1160,219 +1160,219 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Digi-Key" x="185.166" y="75.946" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="185.166" y="75.946" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C17" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-87.63" y="97.79" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-86.4362" y="97.79" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C17" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="42.164" y="68.834" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="129.794" y="-28.956" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="129.794" y="-28.956" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="39.2938" y="68.834" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="129.794" y="-28.956" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="129.794" y="-28.956" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C18" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-92.71" y="97.79" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-91.5162" y="97.79" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C18" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="42.164" y="67.818" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="134.874" y="-29.972" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="134.874" y="-29.972" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="39.2938" y="67.818" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="134.874" y="-29.972" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="134.874" y="-29.972" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C19" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-97.79" y="97.79" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-96.5962" y="97.79" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C19" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="90.17" y="68.834" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="187.96" y="-28.956" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="187.96" y="-28.956" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="87.2998" y="68.834" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="187.96" y="-28.956" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="187.96" y="-28.956" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C2" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="10.668" y="56.388" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata Electronics" x="57.658" y="-41.402" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM188R91E104KA37D" x="57.658" y="-41.402" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="12.446" y="56.388" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="57.658" y="-41.402" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="57.658" y="-41.402" size="1.778" layer="27" display="off"/>
+<element name="C2" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="13.716" y="56.642" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata Electronics" x="60.706" y="-41.148" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM188R91E104KA37D" x="60.706" y="-41.148" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="15.494" y="56.642" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="60.706" y="-41.148" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="60.706" y="-41.148" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C20" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-16.51" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-15.3162" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C20" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="90.17" y="67.818" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="106.68" y="-32.512" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="106.68" y="-32.512" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="87.2998" y="67.564" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="106.68" y="-32.512" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="106.68" y="-32.512" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C21" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-21.59" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-20.3962" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C21" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="83.566" y="69.088" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="105.156" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="105.156" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="80.6958" y="69.088" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="105.156" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="105.156" y="-31.242" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C22" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-26.67" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-25.4762" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C22" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="83.566" y="68.072" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="110.236" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="110.236" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="80.6958" y="68.072" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="110.236" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="110.236" y="-32.258" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C23" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-31.75" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-30.5562" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C23" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="76.2" y="69.342" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="107.95" y="-30.988" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="107.95" y="-30.988" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="75.1078" y="70.358" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="107.95" y="-30.988" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="107.95" y="-30.988" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C24" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="65.278" y="53.34" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="102.108" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="102.108" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="66.4718" y="53.34" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="102.108" y="-46.99" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="102.108" y="-46.99" size="1.778" layer="27" display="off"/>
+<element name="C24" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="76.2" y="68.326" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="113.03" y="-32.004" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="113.03" y="-32.004" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="74.0918" y="68.58" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="113.03" y="-32.004" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="113.03" y="-32.004" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C25" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-41.91" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-40.7162" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C25" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="102.87" y="69.088" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="144.78" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="144.78" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="104.0638" y="69.088" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="144.78" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="144.78" y="-31.242" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C26" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-46.99" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-45.7962" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C26" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="102.87" y="68.072" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="149.86" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="149.86" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="104.0638" y="68.072" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="149.86" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="149.86" y="-32.258" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C27" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-52.07" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-50.8762" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C27" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="96.52" y="69.088" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="148.59" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="148.59" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="97.7138" y="69.088" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="148.59" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="148.59" y="-31.242" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C28" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-57.15" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-55.9562" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C28" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="96.52" y="68.072" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="153.67" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="153.67" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="97.7138" y="68.072" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="153.67" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="153.67" y="-32.258" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C29" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-62.23" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-61.0362" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C29" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="48.768" y="68.834" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="110.998" y="-31.496" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="110.998" y="-31.496" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="46.1518" y="68.834" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="110.998" y="-31.496" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="110.998" y="-31.496" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C3" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="73.914" y="59.436" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata Electronics" x="125.984" y="-38.354" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM188R91E104KA37D" x="125.984" y="-38.354" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="75.692" y="59.436" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="125.984" y="-38.354" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="125.984" y="-38.354" size="1.778" layer="27" display="off"/>
+<element name="C3" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="79.248" y="51.054" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata Electronics" x="131.318" y="-46.736" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM188R91E104KA37D" x="131.318" y="-46.736" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="81.026" y="51.054" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="131.318" y="-46.736" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="131.318" y="-46.736" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C30" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-67.31" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-66.1162" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C30" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="48.768" y="67.818" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="116.078" y="-32.512" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="116.078" y="-32.512" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="45.8978" y="67.818" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="116.078" y="-32.512" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="116.078" y="-32.512" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C31" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-72.39" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-71.1962" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C31" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="55.626" y="69.088" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="128.016" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="128.016" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="53.0098" y="69.088" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="128.016" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="128.016" y="-31.242" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C32" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-77.47" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-76.2762" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C32" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="55.626" y="68.072" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="133.096" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="133.096" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="53.0098" y="68.072" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="133.096" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="133.096" y="-32.258" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C33" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-82.55" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-81.3562" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C33" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="62.738" y="69.088" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="145.288" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="145.288" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="60.1218" y="69.342" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="145.288" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="145.288" y="-31.242" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C34" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-87.63" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-86.4362" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C34" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="62.738" y="68.072" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="150.368" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="150.368" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="60.1218" y="68.072" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="150.368" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="150.368" y="-32.258" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C35" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-92.71" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-91.5162" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C35" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="69.088" y="69.088" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="161.798" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="161.798" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="66.4718" y="69.088" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="161.798" y="-31.242" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="161.798" y="-31.242" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C36" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="-97.79" y="100.33" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM155R71C104KA55D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-96.5962" y="100.33" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C36" library="gtsr-passive" package="C0402" package3d_urn="urn:adsk.eagle:package:9748483/2" value="0.1u" x="69.088" y="68.072" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="166.878" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM155R71C104KA55D" x="166.878" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="66.4718" y="68.072" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="166.878" y="-32.258" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-4759-1-ND" x="166.878" y="-32.258" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C37" library="capacitor-wima" library_urn="urn:adsk.eagle:library:116" package="C5B3.5" package3d_urn="urn:adsk.eagle:package:5427/1" value="0.1uF" x="8.128" y="61.976" smashed="yes">
-<attribute name="NAME" x="5.588" y="64.008" size="1.27" layer="25" ratio="10"/>
-<attribute name="POPULARITY" value="3" x="70.358" y="1.016" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="5.588" y="58.674" size="1.27" layer="27" ratio="10"/>
+<element name="C37" library="capacitor-wima" library_urn="urn:adsk.eagle:library:116" package="C5B3.5" package3d_urn="urn:adsk.eagle:package:5427/1" value="0.1uF" x="8.382" y="56.896" smashed="yes">
+<attribute name="NAME" x="5.842" y="58.928" size="1.27" layer="25" ratio="10"/>
+<attribute name="POPULARITY" value="3" x="70.612" y="-4.064" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="5.842" y="53.594" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="C38" library="capacitor-wima" library_urn="urn:adsk.eagle:library:116" package="C2.5-4" package3d_urn="urn:adsk.eagle:package:5408/1" value="0.1uF" x="45.212" y="53.34" smashed="yes" rot="R270">
 <attribute name="NAME" x="47.371" y="54.991" size="1.27" layer="25" ratio="10" rot="R270"/>
 <attribute name="POPULARITY" value="6" x="-15.748" y="-2.54" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="41.783" y="54.991" size="1.27" layer="27" ratio="10" rot="R270"/>
 </element>
-<element name="C39" library="gtsr-passive" package="1206" value="10u" x="-34.29" y="74.93" smashed="yes">
-<attribute name="MFR" value="Murata Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="GCM31CR71C106KA64K" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-36.6424" y="76.6174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="490-14746-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C39" library="gtsr-passive" package="1206" value="10u" x="60.96" y="3.048" smashed="yes" rot="R180">
+<attribute name="MFR" value="Murata Electronics" x="26.67" y="77.978" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="GCM31CR71C106KA64K" x="26.67" y="77.978" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="63.3124" y="1.3606" size="1.905" layer="25" ratio="16" rot="R180"/>
+<attribute name="SPN" value="490-14746-1-ND" x="26.67" y="77.978" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="26.67" y="77.978" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="C4" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="73.914" y="57.912" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata Electronics" x="131.064" y="-39.878" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM188R91E104KA37D" x="131.064" y="-39.878" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="75.692" y="57.912" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="131.064" y="-39.878" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="131.064" y="-39.878" size="1.778" layer="27" display="off"/>
+<element name="C4" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="79.248" y="49.53" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata Electronics" x="136.398" y="-48.26" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM188R91E104KA37D" x="136.398" y="-48.26" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="81.026" y="49.53" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="136.398" y="-48.26" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="136.398" y="-48.26" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C40" library="gtsr-passive" package="1206" value="10u" x="-40.64" y="74.93" smashed="yes">
-<attribute name="MFR" value="Murata Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="GCM31CR71C106KA64K" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-42.9924" y="76.6174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="490-14746-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C40" library="gtsr-passive" package="1206" value="10u" x="83.566" y="17.78" smashed="yes" rot="R90">
+<attribute name="MFR" value="Murata Electronics" x="158.496" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="GCM31CR71C106KA64K" x="158.496" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="81.8786" y="15.4276" size="1.905" layer="25" ratio="16" rot="R90"/>
+<attribute name="SPN" value="490-14746-1-ND" x="158.496" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="158.496" y="58.42" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="C41" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="-30.48" y="97.79" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM188R91E104KA37D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-28.702" y="97.79" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C41" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="0.1u" x="80.772" y="17.018" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata Electronics" x="111.252" y="-80.772" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM188R91E104KA37D" x="111.252" y="-80.772" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="80.518" y="16.256" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="111.252" y="-80.772" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-14359-1-ND" x="111.252" y="-80.772" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C42" library="gtsr-passive" package="0603" value="2.2u" x="-48.26" y="74.93" smashed="yes">
-<attribute name="MFR" value="Murata Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="GCM188R70J225KE22D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-49.8124" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="490-5316-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C42" library="gtsr-passive" package="0603" value="2.2u" x="77.978" y="17.78" smashed="yes" rot="R270">
+<attribute name="MFR" value="Murata Electronics" x="3.048" y="-30.48" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="GCM188R70J225KE22D" x="3.048" y="-30.48" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="79.2654" y="19.3324" size="1.905" layer="25" ratio="16" rot="R270"/>
+<attribute name="SPN" value="490-5316-1-ND" x="3.048" y="-30.48" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="3.048" y="-30.48" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C5" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="2.2u" x="73.914" y="56.388" smashed="yes">
-<attribute name="AUTOMOTIVE" value="Yes" x="136.144" y="-41.402" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="Murata" x="136.144" y="-41.402" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM188R70J225KE22J" x="136.144" y="-41.402" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="75.692" y="56.388" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="136.144" y="-41.402" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-14529-1-ND" x="136.144" y="-41.402" size="1.778" layer="27" display="off"/>
+<element name="C5" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="2.2u" x="79.248" y="48.006" smashed="yes">
+<attribute name="AUTOMOTIVE" value="Yes" x="141.478" y="-49.784" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Murata" x="141.478" y="-49.784" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM188R70J225KE22J" x="141.478" y="-49.784" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="81.026" y="48.006" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="141.478" y="-49.784" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-14529-1-ND" x="141.478" y="-49.784" size="1.778" layer="27" display="off"/>
 </element>
-<element name="C6" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="1u" x="-67.31" y="97.79" smashed="yes">
-<attribute name="MANUFACTURER" value="Murata" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="GCM188R71E105KA64D" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-65.532" y="97.79" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="490-10673-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="C6" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="1u" x="60.706" y="8.128" smashed="yes">
+<attribute name="MANUFACTURER" value="Murata" x="128.016" y="-89.662" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="GCM188R71E105KA64D" x="128.016" y="-89.662" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="62.484" y="8.128" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="128.016" y="-89.662" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="490-10673-1-ND" x="128.016" y="-89.662" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C7" library="gtsr-passive" package="C0603" package3d_urn="urn:adsk.eagle:package:9748430/2" value="2.2u" x="95.758" y="30.226" smashed="yes" rot="R90" grouprefs="POT1">
 <attribute name="AUTOMOTIVE" value="Yes" x="193.548" y="102.616" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1413,65 +1413,65 @@ design rules under a new name.</description>
 <attribute name="NAME" x="12.192" y="30.5816" size="1.27" layer="25" ratio="6" rot="SR270"/>
 <attribute name="VALUE" x="12.192" y="29.0322" size="1.27" layer="27" ratio="6" rot="SR270"/>
 </element>
-<element name="D1" library="LED" library_urn="urn:adsk.eagle:library:22900745" package="LEDC1608X35N_FLAT-Y" package3d_urn="urn:adsk.eagle:package:24294784/1" value="LED_YELLOW" x="-82.55" y="60.96" smashed="yes">
-<attribute name="CATEGORY" value="LED" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="COLOR" value="YELLOW" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value="CHIP LED FLAT" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-82.677" y="62.3649" size="1.27" layer="25" align="bottom-center"/>
-<attribute name="OPERATING_TEMP" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="PART_STATUS" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="ROHS_COMPLIANT" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SERIES" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUB-CATEGORY" value="CHIP" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="THERMALLOSS" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="FLAT_TOP" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-82.677" y="59.5551" size="1.27" layer="27" align="top-center"/>
+<element name="D1" library="LED" library_urn="urn:adsk.eagle:library:22900745" package="LEDC1608X35N_FLAT-Y" package3d_urn="urn:adsk.eagle:package:24294784/1" value="LED_YELLOW" x="71.882" y="41.656" smashed="yes" rot="R180">
+<attribute name="CATEGORY" value="LED" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="COLOR" value="YELLOW" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DESCRIPTION" value="CHIP LED FLAT" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MANUFACTURER" value="" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="69.723" y="42.2831" size="1.27" layer="25" rot="R180" align="bottom-center"/>
+<attribute name="OPERATING_TEMP" value="" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PART_STATUS" value="" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="ROHS_COMPLIANT" value="" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SERIES" value="" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUB-CATEGORY" value="CHIP" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="THERMALLOSS" value="" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TYPE" value="FLAT_TOP" x="-10.668" y="102.616" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="72.009" y="43.0609" size="1.27" layer="27" rot="R180" align="top-center"/>
 </element>
-<element name="D10" library="diode" library_urn="urn:adsk.eagle:library:210" package="SMB" package3d_urn="urn:adsk.eagle:package:43404/2" value="" x="58.674" y="65.278" smashed="yes">
-<attribute name="NAME" x="56.515" y="67.437" size="1.27" layer="25"/>
-<attribute name="POPULARITY" value="2" x="148.844" y="-3.302" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="56.515" y="61.849" size="1.27" layer="27"/>
+<element name="D10" library="diode" library_urn="urn:adsk.eagle:library:210" package="SMB" package3d_urn="urn:adsk.eagle:package:43404/2" value="" x="33.274" y="64.77" smashed="yes">
+<attribute name="NAME" x="31.115" y="66.929" size="1.27" layer="25"/>
+<attribute name="POPULARITY" value="2" x="123.444" y="-3.81" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="31.115" y="61.341" size="1.27" layer="27"/>
 </element>
-<element name="D11" library="diode" library_urn="urn:adsk.eagle:library:210" package="SMB" package3d_urn="urn:adsk.eagle:package:43404/2" value="" x="58.42" y="58.928" smashed="yes">
-<attribute name="NAME" x="56.261" y="61.087" size="1.27" layer="25"/>
-<attribute name="POPULARITY" value="2" x="74.93" y="-17.272" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="56.261" y="55.499" size="1.27" layer="27"/>
+<element name="D11" library="diode" library_urn="urn:adsk.eagle:library:210" package="SMB" package3d_urn="urn:adsk.eagle:package:43404/2" value="" x="33.02" y="58.42" smashed="yes">
+<attribute name="NAME" x="30.861" y="60.579" size="1.27" layer="25"/>
+<attribute name="POPULARITY" value="2" x="49.53" y="-17.78" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="30.861" y="54.991" size="1.27" layer="27"/>
 </element>
-<element name="D12" library="diode" library_urn="urn:adsk.eagle:library:210" package="SOT23" package3d_urn="urn:adsk.eagle:package:43389/2" value="" x="52.324" y="63.246" smashed="yes">
-<attribute name="NAME" x="50.419" y="65.151" size="1.27" layer="25"/>
-<attribute name="POPULARITY" value="3" x="75.184" y="-12.954" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="50.419" y="60.071" size="1.27" layer="27"/>
+<element name="D12" library="diode" library_urn="urn:adsk.eagle:library:210" package="SOT23" package3d_urn="urn:adsk.eagle:package:43389/2" value="" x="26.924" y="62.738" smashed="yes">
+<attribute name="NAME" x="25.019" y="64.643" size="1.27" layer="25"/>
+<attribute name="POPULARITY" value="3" x="49.784" y="-13.462" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="25.019" y="59.563" size="1.27" layer="27"/>
 </element>
-<element name="D13" library="diode" library_urn="urn:adsk.eagle:library:210" package="SOT23" package3d_urn="urn:adsk.eagle:package:43389/2" value="" x="52.324" y="58.928" smashed="yes" rot="R180">
-<attribute name="NAME" x="54.229" y="57.023" size="1.27" layer="25" rot="R180"/>
-<attribute name="POPULARITY" value="3" x="24.384" y="135.128" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VALUE" x="54.229" y="62.103" size="1.27" layer="27" rot="R180"/>
+<element name="D13" library="diode" library_urn="urn:adsk.eagle:library:210" package="SOT23" package3d_urn="urn:adsk.eagle:package:43389/2" value="" x="26.924" y="58.42" smashed="yes" rot="R180">
+<attribute name="NAME" x="28.829" y="56.515" size="1.27" layer="25" rot="R180"/>
+<attribute name="POPULARITY" value="3" x="-1.016" y="134.62" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="28.829" y="61.595" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="D14" library="gtsr-diode" package="SOD23" package3d_urn="urn:adsk.eagle:package:12501257/1" value="ESD12VD3B" x="-19.05" y="69.85" smashed="yes">
-<attribute name="MANUFACTURER" value="Micro Commercial Co" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="ESD12VD3B-TP" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-19.05" y="71.2465" size="1.27" layer="25" align="bottom-center"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="ESD12VD3B-TPMSCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-19.05" y="68.4535" size="1.27" layer="27" align="top-center"/>
+<element name="D14" library="gtsr-diode" package="SOD23" package3d_urn="urn:adsk.eagle:package:12501257/1" value="ESD12VD3B" x="61.214" y="5.08" smashed="yes">
+<attribute name="MANUFACTURER" value="Micro Commercial Co" x="80.264" y="-64.77" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="ESD12VD3B-TP" x="80.264" y="-64.77" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="61.214" y="6.4765" size="1.27" layer="25" align="bottom-center"/>
+<attribute name="SUPPLIER" value="Digikey" x="80.264" y="-64.77" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="ESD12VD3B-TPMSCT-ND" x="80.264" y="-64.77" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="61.214" y="3.9375" size="1.27" layer="27" align="top-center"/>
 </element>
-<element name="D15" library="LED" library_urn="urn:adsk.eagle:library:22900745" package="LEDC2012X110N_FLAT-R" package3d_urn="urn:adsk.eagle:package:24294806/1" value="LED_RED" x="-71.12" y="60.96" smashed="yes">
-<attribute name="CATEGORY" value="LED" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="COLOR" value="RED" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DESCRIPTION" value="CHIP LED FLAT" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-71.247" y="62.5899" size="1.27" layer="25" align="bottom-center"/>
-<attribute name="OPERATING_TEMP" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="PART_STATUS" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="ROHS_COMPLIANT" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SERIES" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUB-CATEGORY" value="CHIP" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="THERMALLOSS" value="" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="FLAT_TOP" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="-71.247" y="59.3301" size="1.27" layer="27" align="top-center"/>
+<element name="D15" library="LED" library_urn="urn:adsk.eagle:library:22900745" package="LEDC2012X110N_FLAT-R" package3d_urn="urn:adsk.eagle:package:24294806/1" value="LED_RED" x="26.416" y="37.592" smashed="yes" rot="R180">
+<attribute name="CATEGORY" value="LED" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="COLOR" value="RED" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DESCRIPTION" value="CHIP LED FLAT" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MANUFACTURER" value="" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MPN" value="" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="26.543" y="35.9621" size="1.27" layer="25" rot="R180" align="bottom-center"/>
+<attribute name="OPERATING_TEMP" value="" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PART_STATUS" value="" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="ROHS_COMPLIANT" value="" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SERIES" value="" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUB-CATEGORY" value="CHIP" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="THERMALLOSS" value="" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="TYPE" value="FLAT_TOP" x="-44.704" y="98.552" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="VALUE" x="26.543" y="39.2219" size="1.27" layer="27" rot="R180" align="top-center"/>
 </element>
 <element name="D2" library="diode" library_urn="urn:adsk.eagle:library:210" package="SMB" package3d_urn="urn:adsk.eagle:package:43404/2" value="" x="91.186" y="33.528" smashed="yes" rot="R180" grouprefs="POT1">
 <attribute name="NAME" x="87.249" y="32.385" size="1.27" layer="25" rot="R90"/>
@@ -1520,22 +1520,22 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Digikey" x="154.432" y="-20.574" size="1.778" layer="27" display="off"/>
 <attribute name="SUPPLIER_PN" value="811-2945-ND" x="154.432" y="-20.574" size="1.778" layer="27" display="off"/>
 </element>
-<element name="DC4" library="gtsr-power-supply" package="SOT23-5" package3d_urn="urn:adsk.eagle:package:12235379/1" value="NCV551SN33T1G" x="84.074" y="18.034" smashed="yes">
-<attribute name="AUTOMOTIVE" value="Yes" x="143.764" y="-31.496" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="ON Semiconductor" x="143.764" y="-31.496" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="NCV551SN33T1G" x="143.764" y="-31.496" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="84.074" y="20.6875" size="1.27" layer="25" align="bottom-center"/>
-<attribute name="SUPPLIER" value="Digikey" x="143.764" y="-31.496" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="NCV551SN33T1GOSCT-ND" x="143.764" y="-31.496" size="1.778" layer="27" display="off"/>
-<attribute name="VALUE" x="78.994" y="15.8205" size="1.27" layer="27" align="top-center"/>
-<attribute name="VOUT" value="3.3" x="143.764" y="-31.496" size="1.778" layer="27" display="off"/>
+<element name="DC4" library="gtsr-power-supply" package="SOT23-5" package3d_urn="urn:adsk.eagle:package:12235379/1" value="NCV551SN33T1G" x="86.614" y="17.78" smashed="yes">
+<attribute name="AUTOMOTIVE" value="Yes" x="146.304" y="-31.75" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="ON Semiconductor" x="146.304" y="-31.75" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="NCV551SN33T1G" x="146.304" y="-31.75" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="86.614" y="20.4335" size="1.27" layer="25" align="bottom-center"/>
+<attribute name="SUPPLIER" value="Digikey" x="146.304" y="-31.75" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="NCV551SN33T1GOSCT-ND" x="146.304" y="-31.75" size="1.778" layer="27" display="off"/>
+<attribute name="VALUE" x="81.534" y="15.5665" size="1.27" layer="27" align="top-center"/>
+<attribute name="VOUT" value="3.3" x="146.304" y="-31.75" size="1.778" layer="27" display="off"/>
 </element>
-<element name="J1" library="gtsr-connector" package="HEADER-V-1X2" package3d_urn="urn:adsk.eagle:package:17117274/1" value="HEADER-2" x="40.132" y="59.69" smashed="yes">
-<attribute name="MANUFACTURER" value="Molex" x="76.962" y="-22.86" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="0022284027" x="76.962" y="-22.86" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="38.862" y="62.23" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="76.962" y="-22.86" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="WM24201-ND" x="76.962" y="-22.86" size="1.778" layer="27" display="off"/>
+<element name="J1" library="gtsr-connector" package="HEADER-V-1X2" package3d_urn="urn:adsk.eagle:package:17117274/1" value="HEADER-2" x="14.732" y="59.182" smashed="yes">
+<attribute name="MANUFACTURER" value="Molex" x="51.562" y="-23.368" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="0022284027" x="51.562" y="-23.368" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="13.462" y="61.722" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="51.562" y="-23.368" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="WM24201-ND" x="51.562" y="-23.368" size="1.778" layer="27" display="off"/>
 </element>
 <element name="J10" library="gtsr-connector" package="JST-2-PTH-NS" value="" x="63.5" y="71.628" smashed="yes">
 <attribute name="NAME" x="62.23" y="76.898" size="0.4064" layer="25"/>
@@ -1577,12 +1577,12 @@ design rules under a new name.</description>
 <attribute name="NAME" x="55.372" y="76.898" size="0.4064" layer="25"/>
 <attribute name="VALUE" x="55.372" y="75.628" size="0.4064" layer="27"/>
 </element>
-<element name="R1" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="340" x="-30.48" y="95.25" smashed="yes">
-<attribute name="MANUFACTURER" value="Panasonic" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="ERJ-3EKF3400V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-28.194" y="95.25" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="P340HCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R1" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="340" x="69.088" y="41.656" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER" value="Panasonic" x="38.608" y="136.906" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFPN" value="ERJ-3EKF3400V" x="38.608" y="136.906" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="66.802" y="41.656" size="0.8128" layer="25" rot="R180" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="38.608" y="136.906" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUPPLIER_PN" value="P340HCT-ND" x="38.608" y="136.906" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R10" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="340" x="97.282" y="40.132" smashed="yes" rot="R90" grouprefs="POT2">
 <attribute name="MANUFACTURER" value="Panasonic" x="189.992" y="57.912" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1607,117 +1607,117 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Digikey" x="183.896" y="41.91" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SUPPLIER_PN" value="P1.8KDBCT-ND" x="183.896" y="41.91" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="R13" library="gtsr-passive" package="0603" value="10k" x="-54.61" y="74.93" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-56.1624" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R13" library="gtsr-passive" package="0603" value="10k" x="44.196" y="65.278" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="98.806" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="98.806" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="42.3896" y="62.7554" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="98.806" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="98.806" y="-9.652" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R14" library="gtsr-passive" package="0603" value="10k" x="-60.96" y="74.93" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-62.5124" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R14" library="gtsr-passive" package="0603" value="10k" x="92.964" y="65.024" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="153.924" y="-9.906" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="153.924" y="-9.906" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="91.1576" y="62.7554" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="153.924" y="-9.906" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="153.924" y="-9.906" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R15" library="gtsr-passive" package="0603" value="10k" x="-67.31" y="74.93" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-68.8624" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R15" library="gtsr-passive" package="0603" value="10k" x="85.598" y="65.278" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="152.908" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="152.908" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="85.3156" y="63.2634" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="152.908" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="152.908" y="-9.652" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R16" library="gtsr-passive" package="0603" value="10k" x="-73.66" y="74.93" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-75.2124" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R16" library="gtsr-passive" package="0603" value="10k" x="77.978" y="65.786" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="151.638" y="-9.144" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="151.638" y="-9.144" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="76.9336" y="64.5334" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="151.638" y="-9.144" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="151.638" y="-9.144" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R17" library="gtsr-passive" package="0603" value="10k" x="-80.01" y="74.93" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-81.5624" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R17" library="gtsr-passive" package="0603" value="10k" x="105.283" y="65.405" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="185.293" y="-9.525" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="185.293" y="-9.525" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="103.7306" y="66.6924" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="185.293" y="-9.525" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="185.293" y="-9.525" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R18" library="gtsr-passive" package="0603" value="10k" x="-86.36" y="74.93" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-87.9124" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R18" library="gtsr-passive" package="0603" value="10k" x="98.806" y="65.532" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="185.166" y="-9.398" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="185.166" y="-9.398" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="97.2536" y="66.8194" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="185.166" y="-9.398" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="185.166" y="-9.398" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R19" library="gtsr-passive" package="0603" value="10k" x="-92.71" y="74.93" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-94.2624" y="76.2174" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R19" library="gtsr-passive" package="0603" value="10k" x="51.562" y="65.278" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="144.272" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="144.272" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="50.0096" y="62.7554" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="144.272" y="-9.652" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="144.272" y="-9.652" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R2" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/38" value="10k" x="-36.83" y="95.25" smashed="yes">
-<attribute name="MANUFACTURER" value="Panasonic" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-34.544" y="95.25" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R2" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/38" value="10k" x="13.97" y="55.118" smashed="yes">
+<attribute name="MANUFACTURER" value="Panasonic" x="50.8" y="-40.132" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="ERJ-3EKF1002V" x="50.8" y="-40.132" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="16.256" y="55.118" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="50.8" y="-40.132" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="P10.0KHCT-ND" x="50.8" y="-40.132" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R20" library="gtsr-passive" package="0603" value="10k" x="-17.78" y="81.28" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-19.3324" y="82.5674" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R20" library="gtsr-passive" package="0603" value="10k" x="58.166" y="65.278" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="75.946" y="-16.002" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="75.946" y="-16.002" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="56.3596" y="62.5014" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="75.946" y="-16.002" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="75.946" y="-16.002" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R21" library="gtsr-passive" package="0603" value="10k" x="-24.13" y="81.28" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-25.6824" y="82.5674" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R21" library="gtsr-passive" package="0603" value="10k" x="65.532" y="65.532" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="89.662" y="-15.748" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="89.662" y="-15.748" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="63.9796" y="63.0094" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="89.662" y="-15.748" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="89.662" y="-15.748" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R22" library="gtsr-passive" package="0603" value="10k" x="-30.48" y="81.28" smashed="yes">
-<attribute name="MFR" value="Panasonic Electronic Components" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="ERJ-3EKF1002V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-32.0324" y="82.5674" size="1.905" layer="25" ratio="16"/>
-<attribute name="SPN" value="P10.0KHCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SPR" value="Digi-Key" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R22" library="gtsr-passive" package="0603" value="10k" x="71.882" y="65.786" smashed="yes">
+<attribute name="MFR" value="Panasonic Electronic Components" x="102.362" y="-15.494" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="ERJ-3EKF1002V" x="102.362" y="-15.494" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="70.0756" y="63.0094" size="1.905" layer="25" ratio="16"/>
+<attribute name="SPN" value="P10.0KHCT-ND" x="102.362" y="-15.494" size="1.778" layer="27" display="off"/>
+<attribute name="SPR" value="Digi-Key" x="102.362" y="-15.494" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R23" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/38" value="10k" x="43.942" y="64.77" smashed="yes" rot="R180">
-<attribute name="MANUFACTURER" value="Panasonic" x="13.462" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MFPN" value="ERJ-3EKF1002V" x="13.462" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="41.656" y="64.77" size="0.8128" layer="25" rot="R180" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="13.462" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="SUPPLIER_PN" value="P10.0KHCT-ND" x="13.462" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="R23" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/38" value="10k" x="18.542" y="64.262" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER" value="Panasonic" x="-11.938" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFPN" value="ERJ-3EKF1002V" x="-11.938" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="16.256" y="64.262" size="0.8128" layer="25" rot="R180" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-11.938" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUPPLIER_PN" value="P10.0KHCT-ND" x="-11.938" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="R24" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/38" value="10k" x="46.99" y="64.77" smashed="yes" rot="R180">
-<attribute name="MANUFACTURER" value="Panasonic" x="10.16" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MFPN" value="ERJ-3EKF1002V" x="10.16" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="44.704" y="64.77" size="0.8128" layer="25" rot="R180" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="10.16" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="SUPPLIER_PN" value="P10.0KHCT-ND" x="10.16" y="157.48" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="R24" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/38" value="10k" x="21.59" y="64.262" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER" value="Panasonic" x="-15.24" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFPN" value="ERJ-3EKF1002V" x="-15.24" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="19.304" y="64.262" size="0.8128" layer="25" rot="R180" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-15.24" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUPPLIER_PN" value="P10.0KHCT-ND" x="-15.24" y="156.972" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="R25" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="4.7k" x="47.752" y="62.484" smashed="yes" rot="R270">
-<attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="-44.958" y="19.304" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MFPN" value="ERJ-3EKF4701V" x="-44.958" y="19.304" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="47.752" y="60.198" size="0.8128" layer="25" rot="R270" align="center-left"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="-44.958" y="19.304" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="SUPPLIER_PN" value="P4.70KHCT-ND" x="-44.958" y="19.304" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="R25" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="4.7k" x="22.352" y="61.976" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="-70.358" y="18.796" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="ERJ-3EKF4701V" x="-70.358" y="18.796" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="22.352" y="59.69" size="0.8128" layer="25" rot="R270" align="center-left"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="-70.358" y="18.796" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="P4.70KHCT-ND" x="-70.358" y="18.796" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="R26" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="4.7k" x="45.212" y="66.294" smashed="yes" rot="R180">
-<attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="-4.318" y="159.004" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MFPN" value="ERJ-3EKF4701V" x="-4.318" y="159.004" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="42.926" y="66.294" size="0.8128" layer="25" rot="R180" align="center-left"/>
-<attribute name="SUPPLIER" value="Digi-Key" x="-4.318" y="159.004" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="SUPPLIER_PN" value="P4.70KHCT-ND" x="-4.318" y="159.004" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="R26" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="4.7k" x="19.812" y="65.786" smashed="yes" rot="R180">
+<attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="-29.718" y="158.496" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFPN" value="ERJ-3EKF4701V" x="-29.718" y="158.496" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="NAME" x="17.526" y="65.786" size="0.8128" layer="25" rot="R180" align="center-left"/>
+<attribute name="SUPPLIER" value="Digi-Key" x="-29.718" y="158.496" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="SUPPLIER_PN" value="P4.70KHCT-ND" x="-29.718" y="158.496" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="R27" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="340" x="-55.88" y="92.71" smashed="yes">
-<attribute name="MANUFACTURER" value="Panasonic" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="ERJ-3EKF3400V" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-53.594" y="92.71" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="P340HCT-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="R27" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:9748482/2" value="340" x="81.026" y="18.796" smashed="yes">
+<attribute name="MANUFACTURER" value="Panasonic" x="136.906" y="-73.914" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="ERJ-3EKF3400V" x="136.906" y="-73.914" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="83.312" y="18.796" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="136.906" y="-73.914" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="P340HCT-ND" x="136.906" y="-73.914" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R28" library="gtsr-passive" package="R0603" package3d_urn="urn:adsk.eagle:package:23555/38" value="1.8k" x="93.472" y="18.542" smashed="yes" grouprefs="POT3">
 <attribute name="AUTOMOTIVE" value="Yes" x="155.702" y="-74.168" size="1.778" layer="27" display="off"/>
@@ -1838,40 +1838,40 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Digikey" x="166.37" y="104.394" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SUPPLIER_PN" value="36-5001-ND" x="166.37" y="104.394" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="TP10" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-41.91" y="82.55" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-42.38" y="84.37" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP10" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="48.514" y="65.786" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="90.424" y="-16.764" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="90.424" y="-16.764" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="46.52" y="63.034" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="90.424" y="-16.764" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="90.424" y="-16.764" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP11" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-67.31" y="82.55" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-67.78" y="84.37" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP11" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="55.118" y="66.04" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="122.428" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="122.428" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="54.648" y="67.86" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="122.428" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="122.428" y="-16.51" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP12" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-46.99" y="82.55" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-47.46" y="84.37" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP12" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="62.23" y="66.04" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="109.22" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="109.22" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="62.014" y="64.05" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="109.22" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="109.22" y="-16.51" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP13" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-52.07" y="82.55" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-52.54" y="84.37" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP13" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="68.834" y="66.04" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="120.904" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="120.904" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="64.808" y="64.304" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="120.904" y="-16.51" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="120.904" y="-16.51" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP14" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-57.15" y="82.55" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-57.62" y="84.37" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP14" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="26.416" y="33.02" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="83.566" y="-49.53" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="83.566" y="-49.53" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="25.946" y="34.84" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="83.566" y="-49.53" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="83.566" y="-49.53" size="1.778" layer="27" display="off"/>
 </element>
 <element name="TP15" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="90.17" y="60.198" smashed="yes" rot="R90" grouprefs="POT4">
 <attribute name="MANUFACTURER" value="Keystone Electronics" x="172.72" y="122.428" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1894,54 +1894,54 @@ design rules under a new name.</description>
 <attribute name="SUPPLIER" value="Digikey" x="170.688" y="94.234" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SUPPLIER_PN" value="36-5001-ND" x="170.688" y="94.234" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="TP4" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="6.35" y="55.88" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="93.98" y="-26.67" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="93.98" y="-26.67" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="5.88" y="57.7" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="93.98" y="-26.67" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="93.98" y="-26.67" size="1.778" layer="27" display="off"/>
+<element name="TP4" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="41.148" y="65.532" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="128.778" y="-17.018" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="128.778" y="-17.018" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="40.678" y="67.352" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="128.778" y="-17.018" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="128.778" y="-17.018" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP5" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-92.71" y="82.55" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-93.18" y="84.37" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP5" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="89.916" y="65.786" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="182.626" y="-16.764" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="182.626" y="-16.764" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="87.414" y="63.796" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="182.626" y="-16.764" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="182.626" y="-16.764" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP6" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="14.732" y="55.88" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="29.972" y="-31.75" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="29.972" y="-31.75" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="14.262" y="57.7" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="29.972" y="-31.75" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="29.972" y="-31.75" size="1.778" layer="27" display="off"/>
+<element name="TP6" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="82.55" y="66.04" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="97.79" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="97.79" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="82.08" y="67.86" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="97.79" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="97.79" y="-21.59" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP7" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-20.32" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-20.79" y="89.45" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP7" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="74.93" y="66.294" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="95.25" y="-21.336" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="95.25" y="-21.336" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="73.19" y="65.066" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="95.25" y="-21.336" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="95.25" y="-21.336" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP8" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-25.4" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-25.87" y="89.45" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP8" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="102.362" y="66.04" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="127.762" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="127.762" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="101.892" y="67.86" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="127.762" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="127.762" y="-21.59" size="1.778" layer="27" display="off"/>
 </element>
-<element name="TP9" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="-30.48" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Keystone Electronics" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="5001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-30.95" y="89.45" size="1" layer="25"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="36-5001-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="TP9" library="gtsr-connector" package="KEYSTONE_5001_0" value="TEST-POINT-BLACK" x="95.758" y="66.04" smashed="yes">
+<attribute name="MANUFACTURER" value="Keystone Electronics" x="126.238" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="5001" x="126.238" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="95.288" y="67.86" size="1" layer="25"/>
+<attribute name="SUPPLIER" value="Digikey" x="126.238" y="-21.59" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="36-5001-ND" x="126.238" y="-21.59" size="1.778" layer="27" display="off"/>
 </element>
-<element name="U$2" library="gtsr-connector" package="HEADER-V-1X3" package3d_urn="urn:adsk.eagle:package:17235499/1" value="HEADER-3" x="100.076" y="65.024" smashed="yes">
-<attribute name="MANUFACTURER" value="Molex" x="139.446" y="-25.146" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="0901200763" x="139.446" y="-25.146" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="98.806" y="62.484" size="0.8128" layer="25" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="139.446" y="-25.146" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="WM8085-ND" x="139.446" y="-25.146" size="1.778" layer="27" display="off"/>
+<element name="U$2" library="gtsr-connector" package="HEADER-V-1X3" package3d_urn="urn:adsk.eagle:package:17235499/1" value="HEADER-3" x="100.584" y="62.484" smashed="yes">
+<attribute name="MANUFACTURER" value="Molex" x="139.954" y="-27.686" size="1.778" layer="27" display="off"/>
+<attribute name="MFPN" value="0901200763" x="139.954" y="-27.686" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="99.314" y="59.944" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="139.954" y="-27.686" size="1.778" layer="27" display="off"/>
+<attribute name="SUPPLIER_PN" value="WM8085-ND" x="139.954" y="-27.686" size="1.778" layer="27" display="off"/>
 </element>
 <element name="U1" library="gtsr-digital-ic" package="S-PQFP-G64" value="TM4C123GH6PMI" x="56.134" y="40.894" smashed="yes">
 <attribute name="MFR" value="Texas Instruments" x="125.984" y="33.274" size="1.778" layer="27" display="off"/>
@@ -1950,40 +1950,40 @@ design rules under a new name.</description>
 <attribute name="SPN" value="296-35848-ND" x="125.984" y="33.274" size="1.778" layer="27" display="off"/>
 <attribute name="SPR" value="Digi-Key" x="125.984" y="33.274" size="1.778" layer="27" display="off"/>
 </element>
-<element name="U10" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-69.85" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-67.6171" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U10" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="98.806" y="67.818" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="11.176" y="-2.032" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="11.176" y="-2.032" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="98.3742" y="69.6491" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="11.176" y="-2.032" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="11.176" y="-2.032" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U11" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-74.93" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-72.6971" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U11" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="51.054" y="67.564" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-36.576" y="-7.366" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="-36.576" y="-7.366" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="50.6222" y="69.6491" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-36.576" y="-7.366" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="-36.576" y="-7.366" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U12" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-80.01" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-77.7771" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U12" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="57.912" y="67.564" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-29.718" y="-12.446" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="-29.718" y="-12.446" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="56.9722" y="69.6491" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-29.718" y="-12.446" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="-29.718" y="-12.446" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U13" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-85.09" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-82.8571" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U13" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="65.024" y="68.072" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-22.606" y="-17.018" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="-22.606" y="-17.018" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="64.5922" y="70.4111" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-22.606" y="-17.018" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="-22.606" y="-17.018" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U14" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-90.17" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-87.9371" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U14" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="71.374" y="68.072" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-16.256" y="-22.098" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="-16.256" y="-22.098" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="70.9422" y="70.1571" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-16.256" y="-22.098" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="-16.256" y="-22.098" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="U15" library="R-78E5.0-0.5" package="CONV_R-78E5.0-0.5" value="R-78E5.0-0.5" x="71.628" y="30.734" smashed="yes">
 <attribute name="DESCRIPTION" value=" Switching regulator module - DC/DC converter . Single Output. 7.0V to 28.0V input voltage range and 5 V output voltage range " x="105.918" y="4.064" size="1.778" layer="27" display="off"/>
@@ -1995,49 +1995,49 @@ design rules under a new name.</description>
 <attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/R-78E5.0-0.5/?ref=eda" x="105.918" y="4.064" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="65.913" y="25.654" size="1.27" layer="27" align="top-left"/>
 </element>
-<element name="U16" library="texas" library_urn="urn:adsk.eagle:library:387" package="DUB-R-PDSO-G8" package3d_urn="urn:adsk.eagle:package:7566941/1" value="ISO1050DUB" x="34.544" y="51.054" smashed="yes" rot="R270">
-<attribute name="MF" value="" x="9.144" y="30.734" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="ISO1050DUBR" x="9.144" y="30.734" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.369" y="56.134" size="1.27" layer="25"/>
-<attribute name="OC_FARNELL" value="1755712" x="9.144" y="30.734" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="OC_NEWARK" value="14R9899" x="9.144" y="30.734" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="POPULARITY" value="0" x="9.144" y="30.734" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VALUE" x="31.369" y="44.704" size="1.27" layer="27"/>
+<element name="U16" library="texas" library_urn="urn:adsk.eagle:library:387" package="DUB-R-PDSO-G8" package3d_urn="urn:adsk.eagle:package:7566941/1" value="ISO1050DUB" x="35.814" y="36.576" smashed="yes" rot="R270">
+<attribute name="MF" value="" x="10.414" y="16.256" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="ISO1050DUBR" x="10.414" y="16.256" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="32.639" y="41.656" size="1.27" layer="25"/>
+<attribute name="OC_FARNELL" value="1755712" x="10.414" y="16.256" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="OC_NEWARK" value="14R9899" x="10.414" y="16.256" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="POPULARITY" value="0" x="10.414" y="16.256" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VALUE" x="32.639" y="30.226" size="1.27" layer="27"/>
 </element>
-<element name="U5" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-44.45" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-42.2171" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U5" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="44.45" y="67.564" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-43.18" y="23.114" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="-43.18" y="23.114" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="46.0502" y="67.1091" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-43.18" y="23.114" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="-43.18" y="23.114" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U6" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-49.53" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-47.2971" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U6" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="92.456" y="67.564" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="4.826" y="18.034" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="4.826" y="18.034" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="94.5642" y="69.1411" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="4.826" y="18.034" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="4.826" y="18.034" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U7" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-54.61" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-52.3771" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U7" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="85.852" y="67.818" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-1.778" y="13.208" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="-1.778" y="13.208" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="85.1662" y="70.1571" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-1.778" y="13.208" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="-1.778" y="13.208" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U8" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-59.69" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-57.4571" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U8" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="78.486" y="68.072" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="-9.144" y="8.382" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="-9.144" y="8.382" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="78.0542" y="69.6491" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="-9.144" y="8.382" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="-9.144" y="8.382" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U9" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="-64.77" y="87.63" smashed="yes">
-<attribute name="MANUFACTURER" value="Texas Instruments" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-62.5371" y="86.4362" size="0.8128" layer="25" rot="R90" align="center-left"/>
-<attribute name="SUPPLIER" value="Digikey" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
+<element name="U9" library="gtsr-digital-ic" package="SC70" package3d_urn="urn:adsk.eagle:package:17215072/1" value="SN74LVC1T45-Q1" x="105.664" y="67.818" smashed="yes" rot="R270">
+<attribute name="MANUFACTURER" value="Texas Instruments" x="18.034" y="3.048" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFPN" value="SN74LVC1T45QDCKRQ1" x="18.034" y="3.048" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="104.4702" y="65.5851" size="0.8128" layer="25" align="center-left"/>
+<attribute name="SUPPLIER" value="Digikey" x="18.034" y="3.048" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="SUPPLIER_PN" value="296-39212-1-ND" x="18.034" y="3.048" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="X1" library="gtsr-connector" package="0430450412" value="MICRO-FIT_3.0_4POS_2ROW" x="103.378" y="29.718" smashed="yes" rot="R90" grouprefs="POT1">
 <attribute name="MANUFACTURER" value="Molex" x="142.748" y="64.008" size="1.778" layer="27" rot="R90" display="off"/>
@@ -2093,32 +2093,32 @@ design rules under a new name.</description>
 <signal name="TIVADIR7">
 <contactref element="U1" pad="17"/>
 <contactref element="U11" pad="5"/>
-<wire x1="-73.9677" y1="87.63" x2="52.384" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="52.384" y1="35.194" x2="51.054" y2="66.6017" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD9">
 <contactref element="U1" pad="22"/>
 <contactref element="U13" pad="3"/>
-<wire x1="-86.0523" y1="86.98" x2="54.884" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="54.884" y1="35.194" x2="64.374" y2="69.0343" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR9">
 <contactref element="U1" pad="21"/>
 <contactref element="U13" pad="5"/>
-<wire x1="-84.1277" y1="87.63" x2="54.384" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="54.384" y1="35.194" x2="65.024" y2="67.1097" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD8">
 <contactref element="U1" pad="20"/>
 <contactref element="U12" pad="3"/>
-<wire x1="-80.9723" y1="86.98" x2="53.884" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="53.884" y1="35.194" x2="57.262" y2="68.5263" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR8">
 <contactref element="U1" pad="19"/>
 <contactref element="U12" pad="5"/>
-<wire x1="-79.0477" y1="87.63" x2="53.384" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="53.384" y1="35.194" x2="57.912" y2="66.6017" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD7">
 <contactref element="U1" pad="18"/>
 <contactref element="U11" pad="3"/>
-<wire x1="-75.8923" y1="86.98" x2="52.884" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="52.884" y1="35.194" x2="50.404" y2="68.5263" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="I2CSCL">
 <contactref element="U1" pad="23"/>
@@ -2127,11 +2127,11 @@ design rules under a new name.</description>
 <contactref element="D11" pad="C"/>
 <contactref element="R23" pad="1"/>
 <contactref element="R24" pad="2"/>
-<wire x1="52.324" y1="57.828" x2="56.22" y2="58.928" width="0" layer="19" extent="1-1"/>
-<wire x1="46.14" y1="64.77" x2="52.324" y2="57.828" width="0" layer="19" extent="1-1"/>
-<wire x1="44.792" y1="64.77" x2="46.14" y2="64.77" width="0" layer="19" extent="1-1"/>
-<wire x1="46.062" y1="66.294" x2="46.14" y2="64.77" width="0" layer="19" extent="1-1"/>
-<wire x1="55.384" y1="35.194" x2="52.324" y2="57.828" width="0" layer="19" extent="1-1"/>
+<wire x1="26.924" y1="57.32" x2="30.82" y2="58.42" width="0" layer="19" extent="1-1"/>
+<wire x1="20.74" y1="64.262" x2="26.924" y2="57.32" width="0" layer="19" extent="1-1"/>
+<wire x1="19.392" y1="64.262" x2="20.74" y2="64.262" width="0" layer="19" extent="1-1"/>
+<wire x1="20.662" y1="65.786" x2="20.74" y2="64.262" width="0" layer="19" extent="1-1"/>
+<wire x1="55.384" y1="35.194" x2="26.924" y2="57.32" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="I2CSDA">
 <contactref element="U1" pad="24"/>
@@ -2139,35 +2139,35 @@ design rules under a new name.</description>
 <contactref element="R24" pad="1"/>
 <contactref element="D12" pad="3"/>
 <contactref element="D10" pad="C"/>
-<wire x1="52.324" y1="64.346" x2="56.474" y2="65.278" width="0" layer="19" extent="1-1"/>
-<wire x1="47.84" y1="64.77" x2="52.324" y2="64.346" width="0" layer="19" extent="1-1"/>
-<wire x1="47.752" y1="63.334" x2="47.84" y2="64.77" width="0" layer="19" extent="1-1"/>
-<wire x1="55.884" y1="35.194" x2="52.324" y2="64.346" width="0" layer="19" extent="1-1"/>
+<wire x1="26.924" y1="63.838" x2="31.074" y2="64.77" width="0" layer="19" extent="1-1"/>
+<wire x1="22.44" y1="64.262" x2="26.924" y2="63.838" width="0" layer="19" extent="1-1"/>
+<wire x1="22.352" y1="62.826" x2="22.44" y2="64.262" width="0" layer="19" extent="1-1"/>
+<wire x1="55.884" y1="35.194" x2="26.924" y2="63.838" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="UARTRX">
 <contactref element="U1" pad="45"/>
 <contactref element="U$2" pad="2"/>
-<wire x1="102.616" y1="65.024" x2="61.834" y2="43.144" width="0" layer="19" extent="1-1"/>
+<wire x1="103.124" y1="62.484" x2="61.834" y2="43.144" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="UARTTX">
 <contactref element="U1" pad="46"/>
 <contactref element="U$2" pad="3"/>
-<wire x1="61.834" y1="43.644" x2="105.156" y2="65.024" width="0" layer="19" extent="1-1"/>
+<wire x1="61.834" y1="43.644" x2="105.664" y2="62.484" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR2">
 <contactref element="U1" pad="58"/>
 <contactref element="U6" pad="5"/>
-<wire x1="-48.5677" y1="87.63" x2="55.384" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="55.384" y1="46.594" x2="92.456" y2="66.6017" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD1">
 <contactref element="U1" pad="57"/>
 <contactref element="U5" pad="3"/>
-<wire x1="-45.4123" y1="86.98" x2="55.884" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="55.884" y1="46.594" x2="43.8" y2="68.5263" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD5">
 <contactref element="U1" pad="1"/>
 <contactref element="U9" pad="3"/>
-<wire x1="-65.7323" y1="86.98" x2="50.434" y2="44.644" width="0" layer="19" extent="1-1"/>
+<wire x1="50.434" y1="44.644" x2="105.014" y2="68.7803" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TCK">
 <contactref element="U1" pad="52"/>
@@ -2194,47 +2194,47 @@ design rules under a new name.</description>
 <signal name="TIVAD6">
 <contactref element="U1" pad="16"/>
 <contactref element="U10" pad="3"/>
-<wire x1="-70.8123" y1="86.98" x2="50.434" y2="37.144" width="0" layer="19" extent="1-1"/>
+<wire x1="50.434" y1="37.144" x2="98.156" y2="68.7803" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR6">
 <contactref element="U1" pad="15"/>
 <contactref element="U10" pad="5"/>
-<wire x1="-68.8877" y1="87.63" x2="50.434" y2="37.644" width="0" layer="19" extent="1-1"/>
+<wire x1="50.434" y1="37.644" x2="98.806" y2="66.8557" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD3">
 <contactref element="U1" pad="61"/>
 <contactref element="U7" pad="3"/>
-<wire x1="-55.5723" y1="86.98" x2="53.884" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="53.884" y1="46.594" x2="85.202" y2="68.7803" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR4">
 <contactref element="U1" pad="62"/>
 <contactref element="U8" pad="5"/>
-<wire x1="-58.7277" y1="87.63" x2="53.384" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="53.384" y1="46.594" x2="78.486" y2="67.1097" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD4">
 <contactref element="U1" pad="63"/>
 <contactref element="U8" pad="3"/>
-<wire x1="-60.6523" y1="86.98" x2="52.884" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="52.884" y1="46.594" x2="77.836" y2="69.0343" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR5">
 <contactref element="U1" pad="64"/>
 <contactref element="U9" pad="5"/>
-<wire x1="-63.8077" y1="87.63" x2="52.384" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="52.384" y1="46.594" x2="105.664" y2="66.8557" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR1">
 <contactref element="U1" pad="53"/>
 <contactref element="U5" pad="5"/>
-<wire x1="-43.4877" y1="87.63" x2="57.884" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="57.884" y1="46.594" x2="44.45" y2="66.6017" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$1">
 <contactref element="U1" pad="43"/>
 <contactref element="R1" pad="2"/>
-<wire x1="61.834" y1="42.144" x2="-29.63" y2="95.25" width="0" layer="19" extent="1-1"/>
+<wire x1="61.834" y1="42.144" x2="68.238" y2="41.656" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$2">
 <contactref element="R1" pad="1"/>
 <contactref element="D1" pad="A"/>
-<wire x1="-81.8" y1="60.96" x2="-31.33" y2="95.25" width="0" layer="19" extent="1-1"/>
+<wire x1="69.938" y1="41.656" x2="71.132" y2="41.656" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="GND">
 <contactref element="D1" pad="C"/>
@@ -2335,21 +2335,61 @@ design rules under a new name.</description>
 <contactref element="D8" pad="A"/>
 <contactref element="X6" pad="2"/>
 <contactref element="X6" pad="3"/>
-<wire x1="45.212" y1="10.16" x2="47.752" y2="10.16" width="0" layer="19" extent="1-1"/>
-<wire x1="42.672" y1="10.16" x2="45.212" y2="10.16" width="0" layer="19" extent="1-1"/>
-<wire x1="40.132" y1="10.16" x2="42.672" y2="10.16" width="0" layer="19" extent="1-1"/>
-<wire x1="37.592" y1="10.16" x2="40.132" y2="10.16" width="0" layer="19" extent="1-1"/>
-<wire x1="95.758" y1="60.136" x2="47.752" y2="10.16" width="0" layer="19" extent="1-1"/>
+<wire x1="103.33" y1="69.088" x2="105.664" y2="68.7803" width="0" layer="19" extent="1-1"/>
+<wire x1="103.33" y1="68.072" x2="103.33" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="103.648" y1="71.628" x2="103.33" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="98.806" y1="68.7803" x2="103.33" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="96.98" y1="69.088" x2="98.806" y2="68.7803" width="0" layer="19" extent="1-1"/>
+<wire x1="96.98" y1="68.072" x2="96.98" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="96.79" y1="71.628" x2="96.98" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="92.456" y1="68.5263" x2="96.98" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="90.63" y1="68.834" x2="92.456" y2="68.5263" width="0" layer="19" extent="1-1"/>
+<wire x1="90.63" y1="67.818" x2="90.63" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="89.932" y1="71.628" x2="90.63" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="85.852" y1="68.7803" x2="90.63" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="84.026" y1="69.088" x2="85.852" y2="68.7803" width="0" layer="19" extent="1-1"/>
+<wire x1="84.026" y1="68.072" x2="84.026" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="83.074" y1="71.628" x2="84.026" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="78.486" y1="69.0343" x2="83.074" y2="71.628" width="0" layer="19" extent="1-1"/>
+<wire x1="76.66" y1="69.342" x2="78.486" y2="69.0343" width="0" layer="19" extent="1-1"/>
+<wire x1="76.66" y1="68.326" x2="76.66" y2="69.342" width="0" layer="19" extent="1-1"/>
+<wire x1="76.216" y1="71.628" x2="76.66" y2="69.342" width="0" layer="19" extent="1-1"/>
+<wire x1="71.374" y1="69.0343" x2="76.66" y2="69.342" width="0" layer="19" extent="1-1"/>
+<wire x1="69.548" y1="69.088" x2="71.374" y2="69.0343" width="0" layer="19" extent="1-1"/>
+<wire x1="69.548" y1="68.072" x2="69.548" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="69.358" y1="71.628" x2="69.548" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="65.024" y1="69.0343" x2="69.548" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="63.198" y1="69.088" x2="65.024" y2="69.0343" width="0" layer="19" extent="1-1"/>
+<wire x1="63.198" y1="68.072" x2="63.198" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="62.5" y1="71.628" x2="63.198" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="57.912" y1="68.5263" x2="63.198" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="56.086" y1="68.072" x2="57.912" y2="68.5263" width="0" layer="19" extent="1-1"/>
+<wire x1="56.086" y1="69.088" x2="56.086" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="55.642" y1="71.628" x2="56.086" y2="69.088" width="0" layer="19" extent="1-1"/>
+<wire x1="51.054" y1="68.5263" x2="56.086" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="49.228" y1="68.834" x2="51.054" y2="68.5263" width="0" layer="19" extent="1-1"/>
+<wire x1="49.228" y1="67.818" x2="49.228" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="48.784" y1="71.628" x2="49.228" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="44.45" y1="68.5263" x2="49.228" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="42.624" y1="68.834" x2="44.45" y2="68.5263" width="0" layer="19" extent="1-1"/>
+<wire x1="42.624" y1="67.818" x2="42.624" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="41.926" y1="71.628" x2="42.624" y2="68.834" width="0" layer="19" extent="1-1"/>
+<wire x1="100.584" y1="62.484" x2="103.33" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="95.758" y1="60.136" x2="100.584" y2="62.484" width="0" layer="19" extent="1-1"/>
 <wire x1="91.526" y1="55.88" x2="95.758" y2="60.136" width="0" layer="19" extent="1-1"/>
 <wire x1="91.526" y1="51.816" x2="91.526" y2="55.88" width="0" layer="19" extent="1-1"/>
 <wire x1="87.376" y1="52.516" x2="91.526" y2="51.816" width="0" layer="19" extent="1-1"/>
+<wire x1="79.948" y1="51.054" x2="87.376" y2="52.516" width="0" layer="19" extent="1-1"/>
+<wire x1="79.948" y1="49.53" x2="79.948" y2="51.054" width="0" layer="19" extent="1-1"/>
+<wire x1="79.948" y1="48.006" x2="79.948" y2="49.53" width="0" layer="19" extent="1-1"/>
+<wire x1="81.85" y1="45.72" x2="79.948" y2="48.006" width="0" layer="19" extent="1-1"/>
+<wire x1="80.096" y1="42.926" x2="81.85" y2="45.72" width="0" layer="19" extent="1-1"/>
+<wire x1="72.632" y1="41.656" x2="80.096" y2="42.926" width="0" layer="19" extent="1-1"/>
 <wire x1="90.764" y1="43.688" x2="91.526" y2="51.816" width="0" layer="19" extent="1-1"/>
 <wire x1="95.758" y1="40.832" x2="90.764" y2="43.688" width="0" layer="19" extent="1-1"/>
 <wire x1="101.878" y1="40.918" x2="95.758" y2="40.832" width="0" layer="19" extent="1-1"/>
 <wire x1="104.878" y1="40.918" x2="101.878" y2="40.918" width="0" layer="19" extent="1-1"/>
-<wire x1="81.85" y1="45.72" x2="87.376" y2="52.516" width="0" layer="19" extent="1-1"/>
-<wire x1="80.096" y1="42.926" x2="81.85" y2="45.72" width="0" layer="19" extent="1-1"/>
-<wire x1="101.878" y1="53.618" x2="95.758" y2="60.136" width="0" layer="19" extent="1-1"/>
+<wire x1="101.878" y1="53.618" x2="100.584" y2="62.484" width="0" layer="19" extent="1-1"/>
 <wire x1="104.878" y1="53.618" x2="101.878" y2="53.618" width="0" layer="19" extent="1-1"/>
 <wire x1="95.758" y1="30.926" x2="95.758" y2="40.832" width="0" layer="19" extent="1-1"/>
 <wire x1="101.878" y1="28.218" x2="95.758" y2="30.926" width="0" layer="19" extent="1-1"/>
@@ -2361,77 +2401,37 @@ design rules under a new name.</description>
 <wire x1="93.026" y1="17.018" x2="89.408" y2="18.48" width="0" layer="19" extent="1-1"/>
 <wire x1="91.78" y1="13.716" x2="93.026" y2="17.018" width="0" layer="19" extent="1-1"/>
 <wire x1="91.78" y1="9.652" x2="91.78" y2="13.716" width="0" layer="19" extent="1-1"/>
-<wire x1="82.833" y1="18.034" x2="89.408" y2="18.48" width="0" layer="19" extent="1-1"/>
+<wire x1="85.373" y1="17.78" x2="89.408" y2="18.48" width="0" layer="19" extent="1-1"/>
+<wire x1="83.566" y1="19.18" x2="85.373" y2="17.78" width="0" layer="19" extent="1-1"/>
+<wire x1="81.472" y1="17.018" x2="83.566" y2="19.18" width="0" layer="19" extent="1-1"/>
+<wire x1="77.978" y1="16.93" x2="81.472" y2="17.018" width="0" layer="19" extent="1-1"/>
 <wire x1="101.878" y1="15.391" x2="93.026" y2="17.018" width="0" layer="19" extent="1-1"/>
 <wire x1="104.878" y1="15.391" x2="101.878" y2="15.391" width="0" layer="19" extent="1-1"/>
-<wire x1="61.834" y1="40.144" x2="80.096" y2="42.926" width="0" layer="19" extent="1-1"/>
+<wire x1="80.8482" y1="7.0866" x2="81.472" y2="17.018" width="0" layer="19" extent="1-1"/>
+<wire x1="61.834" y1="40.144" x2="72.632" y2="41.656" width="0" layer="19" extent="1-1"/>
 <wire x1="59.884" y1="35.194" x2="61.834" y2="40.144" width="0" layer="19" extent="1-1"/>
 <wire x1="57.384" y1="35.194" x2="59.884" y2="35.194" width="0" layer="19" extent="1-1"/>
 <wire x1="50.434" y1="39.144" x2="57.384" y2="35.194" width="0" layer="19" extent="1-1"/>
 <wire x1="50.434" y1="43.644" x2="50.434" y2="39.144" width="0" layer="19" extent="1-1"/>
 <wire x1="56.884" y1="46.594" x2="50.434" y2="43.644" width="0" layer="19" extent="1-1"/>
-<wire x1="60.62" y1="58.928" x2="56.884" y2="46.594" width="0" layer="19" extent="1-1"/>
-<wire x1="60.874" y1="65.278" x2="60.62" y2="58.928" width="0" layer="19" extent="1-1"/>
-<wire x1="53.274" y1="60.028" x2="60.62" y2="58.928" width="0" layer="19" extent="1-1"/>
-<wire x1="51.374" y1="62.146" x2="53.274" y2="60.028" width="0" layer="19" extent="1-1"/>
-<wire x1="30.099" y1="47.244" x2="56.884" y2="46.594" width="0" layer="19" extent="1-1"/>
-<wire x1="65.738" y1="53.34" x2="51.374" y2="62.146" width="0" layer="19" extent="1-1"/>
-<wire x1="74.614" y1="56.388" x2="65.738" y2="53.34" width="0" layer="19" extent="1-1"/>
-<wire x1="74.614" y1="57.912" x2="74.614" y2="56.388" width="0" layer="19" extent="1-1"/>
-<wire x1="74.614" y1="59.436" x2="74.614" y2="57.912" width="0" layer="19" extent="1-1"/>
-<wire x1="11.368" y1="56.388" x2="74.614" y2="59.436" width="0" layer="19" extent="1-1"/>
-<wire x1="5.588" y1="61.976" x2="11.368" y2="56.388" width="0" layer="19" extent="1-1"/>
-<wire x1="103.648" y1="71.628" x2="5.588" y2="61.976" width="0" layer="19" extent="1-1"/>
-<wire x1="96.79" y1="71.628" x2="103.648" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="48.784" y1="71.628" x2="96.79" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="55.642" y1="71.628" x2="48.784" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="62.5" y1="71.628" x2="55.642" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="69.358" y1="71.628" x2="62.5" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="-47.41" y1="74.93" x2="69.358" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="-39.24" y1="74.93" x2="-47.41" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-57.15" y1="82.55" x2="-47.41" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-55.5723" y1="87.63" x2="-57.15" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="-50.4923" y1="87.63" x2="-55.5723" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-45.4123" y1="87.63" x2="-50.4923" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-60.6523" y1="87.63" x2="-55.5723" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-65.7323" y1="87.63" x2="-60.6523" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-70.8123" y1="87.63" x2="-65.7323" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-75.8923" y1="87.63" x2="-70.8123" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-80.9723" y1="87.63" x2="-75.8923" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-86.0523" y1="87.63" x2="-80.9723" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-91.1323" y1="87.63" x2="-86.0523" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="100.076" y1="65.024" x2="-45.4123" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-41.21" y1="97.79" x2="100.076" y2="65.024" width="0" layer="19" extent="1-1"/>
-<wire x1="-41.45" y1="100.33" x2="-41.21" y2="97.79" width="0" layer="19" extent="1-1"/>
-<wire x1="-46.53" y1="100.33" x2="-41.45" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-51.61" y1="100.33" x2="-46.53" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-56.69" y1="100.33" x2="-51.61" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-61.77" y1="100.33" x2="-56.69" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-66.85" y1="100.33" x2="-61.77" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-66.61" y1="97.79" x2="-66.85" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-71.93" y1="100.33" x2="-66.85" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-77.01" y1="100.33" x2="-71.93" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-82.09" y1="100.33" x2="-77.01" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-87.17" y1="100.33" x2="-82.09" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-87.17" y1="97.79" x2="-87.17" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-92.25" y1="100.33" x2="-87.17" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-92.25" y1="97.79" x2="-92.25" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-97.33" y1="100.33" x2="-92.25" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-97.33" y1="97.79" x2="-97.33" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-31.29" y1="100.33" x2="-41.45" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-29.78" y1="97.79" x2="-31.29" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-26.21" y1="100.33" x2="-29.78" y2="97.79" width="0" layer="19" extent="1-1"/>
-<wire x1="-21.13" y1="100.33" x2="-26.21" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-16.05" y1="100.33" x2="-21.13" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-72.145" y1="60.96" x2="69.358" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="-83.3" y1="60.96" x2="-72.145" y2="60.96" width="0" layer="19" extent="1-1"/>
-<wire x1="83.074" y1="71.628" x2="-83.3" y2="60.96" width="0" layer="19" extent="1-1"/>
-<wire x1="76.216" y1="71.628" x2="83.074" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="89.932" y1="71.628" x2="83.074" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="80.8482" y1="7.0866" x2="89.932" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="41.926" y1="71.628" x2="50.434" y2="39.144" width="0" layer="19" extent="1-1"/>
-<wire x1="15.494" y1="70.636" x2="80.8482" y2="7.0866" width="0" layer="19" extent="1-1"/>
+<wire x1="15.494" y1="70.636" x2="41.926" y2="71.628" width="0" layer="19" extent="1-1"/>
 <wire x1="12.494" y1="70.636" x2="15.494" y2="70.636" width="0" layer="19" extent="1-1"/>
+<wire x1="5.842" y1="56.896" x2="12.494" y2="70.636" width="0" layer="19" extent="1-1"/>
+<wire x1="14.416" y1="56.642" x2="5.842" y2="56.896" width="0" layer="19" extent="1-1"/>
+<wire x1="27.441" y1="37.592" x2="5.842" y2="56.896" width="0" layer="19" extent="1-1"/>
+<wire x1="26.416" y1="33.02" x2="27.441" y2="37.592" width="0" layer="19" extent="1-1"/>
+<wire x1="35.22" y1="58.42" x2="27.441" y2="37.592" width="0" layer="19" extent="1-1"/>
+<wire x1="35.474" y1="64.77" x2="35.22" y2="58.42" width="0" layer="19" extent="1-1"/>
+<wire x1="27.874" y1="59.52" x2="35.22" y2="58.42" width="0" layer="19" extent="1-1"/>
+<wire x1="25.974" y1="61.638" x2="27.874" y2="59.52" width="0" layer="19" extent="1-1"/>
+<wire x1="47.752" y1="10.16" x2="57.384" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="45.212" y1="10.16" x2="47.752" y2="10.16" width="0" layer="19" extent="1-1"/>
+<wire x1="42.672" y1="10.16" x2="45.212" y2="10.16" width="0" layer="19" extent="1-1"/>
+<wire x1="40.132" y1="10.16" x2="42.672" y2="10.16" width="0" layer="19" extent="1-1"/>
+<wire x1="37.592" y1="10.16" x2="40.132" y2="10.16" width="0" layer="19" extent="1-1"/>
+<wire x1="31.369" y1="32.766" x2="26.416" y2="33.02" width="0" layer="19" extent="1-1"/>
+<wire x1="61.406" y1="8.128" x2="80.8482" y2="7.0866" width="0" layer="19" extent="1-1"/>
+<wire x1="58.612" y1="8.128" x2="61.406" y2="8.128" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAA4">
 <contactref element="U1" pad="9"/>
@@ -2448,32 +2448,32 @@ design rules under a new name.</description>
 <signal name="TIVAD2">
 <contactref element="U1" pad="59"/>
 <contactref element="U6" pad="3"/>
-<wire x1="-50.4923" y1="86.98" x2="54.884" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="54.884" y1="46.594" x2="91.806" y2="68.5263" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR3">
 <contactref element="U1" pad="60"/>
 <contactref element="U7" pad="5"/>
-<wire x1="-53.6477" y1="87.63" x2="54.384" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="54.384" y1="46.594" x2="85.852" y2="66.8557" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="CANRX">
 <contactref element="U1" pad="28"/>
 <contactref element="U16" pad="2"/>
-<wire x1="30.099" y1="52.324" x2="57.884" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="31.369" y1="37.846" x2="57.884" y2="35.194" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVADIR10">
 <contactref element="U1" pad="29"/>
 <contactref element="U14" pad="5"/>
-<wire x1="-89.2077" y1="87.63" x2="58.384" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="58.384" y1="35.194" x2="71.374" y2="67.1097" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TIVAD10">
 <contactref element="U1" pad="30"/>
 <contactref element="U14" pad="3"/>
-<wire x1="-91.1323" y1="86.98" x2="58.884" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="58.884" y1="35.194" x2="70.724" y2="69.0343" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="CANTX">
 <contactref element="U1" pad="31"/>
 <contactref element="U16" pad="3"/>
-<wire x1="30.099" y1="49.784" x2="59.384" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="31.369" y1="35.306" x2="59.384" y2="35.194" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VCC">
 <contactref element="U1" pad="11"/>
@@ -2521,76 +2521,76 @@ design rules under a new name.</description>
 <contactref element="X2" pad="1"/>
 <contactref element="X3" pad="1"/>
 <contactref element="X4" pad="1"/>
+<wire x1="59.016" y1="65.278" x2="58.562" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="55.166" y1="68.072" x2="58.562" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="52.412" y1="65.278" x2="55.166" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="51.704" y1="66.6017" x2="52.412" y2="65.278" width="0" layer="19" extent="1-1"/>
+<wire x1="48.308" y1="67.818" x2="51.704" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="62.278" y1="68.072" x2="59.016" y2="65.278" width="0" layer="19" extent="1-1"/>
+<wire x1="65.674" y1="67.1097" x2="62.278" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="66.382" y1="65.532" x2="65.674" y2="67.1097" width="0" layer="19" extent="1-1"/>
+<wire x1="41.704" y1="67.818" x2="51.704" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="45.1" y1="66.6017" x2="41.704" y2="67.818" width="0" layer="19" extent="1-1"/>
+<wire x1="45.046" y1="65.278" x2="45.1" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="93.814" y1="65.024" x2="41.704" y2="67.818" width="0" layer="19" extent="1-1"/>
+<wire x1="93.106" y1="66.6017" x2="93.814" y2="65.024" width="0" layer="19" extent="1-1"/>
+<wire x1="89.71" y1="67.818" x2="93.106" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="106.133" y1="65.405" x2="89.71" y2="67.818" width="0" layer="19" extent="1-1"/>
+<wire x1="106.314" y1="66.8557" x2="106.133" y2="65.405" width="0" layer="19" extent="1-1"/>
+<wire x1="102.41" y1="68.072" x2="106.314" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="96.06" y1="68.072" x2="106.314" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="99.456" y1="66.8557" x2="96.06" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="99.656" y1="65.532" x2="99.456" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="78.828" y1="65.786" x2="96.06" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="79.136" y1="67.1097" x2="78.828" y2="65.786" width="0" layer="19" extent="1-1"/>
+<wire x1="75.74" y1="68.326" x2="79.136" y2="67.1097" width="0" layer="19" extent="1-1"/>
+<wire x1="83.106" y1="68.072" x2="79.136" y2="67.1097" width="0" layer="19" extent="1-1"/>
+<wire x1="86.502" y1="66.8557" x2="83.106" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="86.448" y1="65.278" x2="86.502" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="72.024" y1="67.1097" x2="66.382" y2="65.532" width="0" layer="19" extent="1-1"/>
+<wire x1="68.628" y1="68.072" x2="72.024" y2="67.1097" width="0" layer="19" extent="1-1"/>
+<wire x1="72.732" y1="65.786" x2="68.628" y2="68.072" width="0" layer="19" extent="1-1"/>
+<wire x1="14.82" y1="55.118" x2="86.502" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="13.016" y1="56.642" x2="14.82" y2="55.118" width="0" layer="19" extent="1-1"/>
+<wire x1="50.434" y1="44.144" x2="13.016" y2="56.642" width="0" layer="19" extent="1-1"/>
+<wire x1="50.434" y1="39.644" x2="50.434" y2="44.144" width="0" layer="19" extent="1-1"/>
+<wire x1="57.384" y1="46.594" x2="50.434" y2="44.144" width="0" layer="19" extent="1-1"/>
+<wire x1="61.834" y1="41.644" x2="57.384" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="56.884" y1="35.194" x2="50.434" y2="39.644" width="0" layer="19" extent="1-1"/>
+<wire x1="78.548" y1="48.006" x2="57.384" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="78.548" y1="49.53" x2="78.548" y2="48.006" width="0" layer="19" extent="1-1"/>
+<wire x1="78.548" y1="51.054" x2="78.548" y2="49.53" width="0" layer="19" extent="1-1"/>
+<wire x1="104.878" y1="56.618" x2="78.548" y2="48.006" width="0" layer="19" extent="1-1"/>
 <wire x1="104.878" y1="43.918" x2="104.878" y2="56.618" width="0" layer="19" extent="1-1"/>
 <wire x1="104.878" y1="31.218" x2="104.878" y2="43.918" width="0" layer="19" extent="1-1"/>
-<wire x1="40.132" y1="7.62" x2="104.878" y2="56.618" width="0" layer="19" extent="1-1"/>
-<wire x1="57.384" y1="46.594" x2="40.132" y2="7.62" width="0" layer="19" extent="1-1"/>
-<wire x1="61.834" y1="41.644" x2="57.384" y2="46.594" width="0" layer="19" extent="1-1"/>
-<wire x1="50.434" y1="44.144" x2="57.384" y2="46.594" width="0" layer="19" extent="1-1"/>
-<wire x1="50.434" y1="39.644" x2="50.434" y2="44.144" width="0" layer="19" extent="1-1"/>
-<wire x1="56.884" y1="35.194" x2="50.434" y2="39.644" width="0" layer="19" extent="1-1"/>
-<wire x1="104.878" y1="18.391" x2="56.884" y2="35.194" width="0" layer="19" extent="1-1"/>
-<wire x1="64.818" y1="53.34" x2="50.434" y2="44.144" width="0" layer="19" extent="1-1"/>
-<wire x1="73.214" y1="56.388" x2="64.818" y2="53.34" width="0" layer="19" extent="1-1"/>
-<wire x1="73.214" y1="57.912" x2="73.214" y2="56.388" width="0" layer="19" extent="1-1"/>
-<wire x1="73.214" y1="59.436" x2="73.214" y2="57.912" width="0" layer="19" extent="1-1"/>
-<wire x1="9.968" y1="56.388" x2="73.214" y2="59.436" width="0" layer="19" extent="1-1"/>
-<wire x1="-16.93" y1="81.28" x2="9.968" y2="56.388" width="0" layer="19" extent="1-1"/>
-<wire x1="-23.28" y1="81.28" x2="-16.93" y2="81.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-29.63" y1="81.28" x2="-23.28" y2="81.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-35.98" y1="95.25" x2="-29.63" y2="81.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-27.13" y1="100.33" x2="-35.98" y2="95.25" width="0" layer="19" extent="1-1"/>
-<wire x1="-16.97" y1="100.33" x2="-27.13" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-43.4877" y1="88.28" x2="-35.98" y2="95.25" width="0" layer="19" extent="1-1"/>
-<wire x1="-48.5677" y1="88.28" x2="-43.4877" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-53.6477" y1="88.28" x2="-48.5677" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-58.7277" y1="88.28" x2="-53.6477" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-63.8077" y1="88.28" x2="-58.7277" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-68.8877" y1="88.28" x2="-63.8077" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-73.9677" y1="88.28" x2="-68.8877" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-79.0477" y1="88.28" x2="-73.9677" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-84.1277" y1="88.28" x2="-79.0477" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-89.2077" y1="88.28" x2="-84.1277" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-93.17" y1="97.79" x2="-89.2077" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-88.09" y1="100.33" x2="-93.17" y2="97.79" width="0" layer="19" extent="1-1"/>
-<wire x1="-98.25" y1="100.33" x2="-93.17" y2="97.79" width="0" layer="19" extent="1-1"/>
-<wire x1="-77.93" y1="100.33" x2="-88.09" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-67.77" y1="100.33" x2="-77.93" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-57.61" y1="100.33" x2="-67.77" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-47.45" y1="100.33" x2="-57.61" y2="100.33" width="0" layer="19" extent="1-1"/>
-<wire x1="-53.76" y1="74.93" x2="-53.6477" y2="88.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-60.11" y1="74.93" x2="-53.76" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-66.46" y1="74.93" x2="-60.11" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-72.81" y1="74.93" x2="-66.46" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-79.16" y1="74.93" x2="-72.81" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-85.51" y1="74.93" x2="-79.16" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-91.86" y1="74.93" x2="-85.51" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="104.878" y1="18.391" x2="104.878" y2="31.218" width="0" layer="19" extent="1-1"/>
+<wire x1="40.132" y1="7.62" x2="56.884" y2="35.194" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="RESET">
 <contactref element="U1" pad="38"/>
 <contactref element="R2" pad="1"/>
 <contactref element="X8" pad="2"/>
 <wire x1="35.052" y1="10.16" x2="61.834" y2="39.644" width="0" layer="19" extent="1-1"/>
-<wire x1="-37.68" y1="95.25" x2="35.052" y2="10.16" width="0" layer="19" extent="1-1"/>
+<wire x1="13.12" y1="55.118" x2="35.052" y2="10.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$5">
 <contactref element="U1" pad="25"/>
 <contactref element="C1" pad="1"/>
-<wire x1="-42.61" y1="97.79" x2="56.384" y2="35.194" width="0" layer="19" extent="1-1"/>
+<wire x1="57.212" y1="8.128" x2="56.384" y2="35.194" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$8">
 <contactref element="U1" pad="56"/>
 <contactref element="C6" pad="1"/>
-<wire x1="-68.01" y1="97.79" x2="56.384" y2="46.594" width="0" layer="19" extent="1-1"/>
+<wire x1="60.006" y1="8.128" x2="56.384" y2="46.594" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$21">
 <contactref element="U5" pad="4"/>
 <contactref element="TP4" pad="1"/>
 <contactref element="R13" pad="1"/>
 <contactref element="J2" pad="2"/>
-<wire x1="-55.46" y1="74.93" x2="-43.4877" y2="86.98" width="0" layer="19" extent="1-1"/>
-<wire x1="43.926" y1="71.628" x2="-55.46" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="6.35" y1="55.88" x2="-55.46" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="43.8" y1="66.6017" x2="43.346" y2="65.278" width="0" layer="19" extent="1-1"/>
+<wire x1="41.148" y1="65.532" x2="43.8" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="43.926" y1="71.628" x2="41.148" y2="65.532" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$22">
 <contactref element="U5" pad="1"/>
@@ -2603,9 +2603,9 @@ design rules under a new name.</description>
 <contactref element="TP5" pad="1"/>
 <contactref element="R14" pad="1"/>
 <contactref element="J3" pad="2"/>
-<wire x1="-61.81" y1="74.93" x2="-48.5677" y2="86.98" width="0" layer="19" extent="1-1"/>
-<wire x1="91.932" y1="71.628" x2="-61.81" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="-92.71" y1="82.55" x2="-61.81" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="91.806" y1="66.6017" x2="91.932" y2="71.628" width="0" layer="19" extent="1-1"/>
+<wire x1="92.114" y1="65.024" x2="91.806" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="89.916" y1="65.786" x2="92.114" y2="65.024" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$26">
 <contactref element="U6" pad="1"/>
@@ -2618,9 +2618,9 @@ design rules under a new name.</description>
 <contactref element="TP6" pad="1"/>
 <contactref element="R15" pad="1"/>
 <contactref element="J4" pad="2"/>
-<wire x1="-53.6477" y1="86.98" x2="14.732" y2="55.88" width="0" layer="19" extent="1-1"/>
-<wire x1="-68.16" y1="74.93" x2="-53.6477" y2="86.98" width="0" layer="19" extent="1-1"/>
-<wire x1="85.074" y1="71.628" x2="-68.16" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="85.202" y1="66.8557" x2="85.074" y2="71.628" width="0" layer="19" extent="1-1"/>
+<wire x1="84.748" y1="65.278" x2="85.202" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="82.55" y1="66.04" x2="85.202" y2="66.8557" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$30">
 <contactref element="U7" pad="1"/>
@@ -2633,9 +2633,9 @@ design rules under a new name.</description>
 <contactref element="TP7" pad="1"/>
 <contactref element="R16" pad="1"/>
 <contactref element="J5" pad="2"/>
-<wire x1="-58.7277" y1="86.98" x2="-20.32" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-74.51" y1="74.93" x2="-58.7277" y2="86.98" width="0" layer="19" extent="1-1"/>
-<wire x1="78.216" y1="71.628" x2="-74.51" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="77.836" y1="67.1097" x2="78.216" y2="71.628" width="0" layer="19" extent="1-1"/>
+<wire x1="77.128" y1="65.786" x2="77.836" y2="67.1097" width="0" layer="19" extent="1-1"/>
+<wire x1="74.93" y1="66.294" x2="77.836" y2="67.1097" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$34">
 <contactref element="U8" pad="1"/>
@@ -2648,9 +2648,9 @@ design rules under a new name.</description>
 <contactref element="TP8" pad="1"/>
 <contactref element="R17" pad="1"/>
 <contactref element="J6" pad="2"/>
-<wire x1="105.648" y1="71.628" x2="-25.4" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-63.8077" y1="86.98" x2="-25.4" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-80.86" y1="74.93" x2="-63.8077" y2="86.98" width="0" layer="19" extent="1-1"/>
+<wire x1="105.014" y1="66.8557" x2="105.648" y2="71.628" width="0" layer="19" extent="1-1"/>
+<wire x1="104.433" y1="65.405" x2="105.014" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="102.362" y1="66.04" x2="105.014" y2="66.8557" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$38">
 <contactref element="U9" pad="1"/>
@@ -2663,9 +2663,9 @@ design rules under a new name.</description>
 <contactref element="TP9" pad="1"/>
 <contactref element="R18" pad="1"/>
 <contactref element="J7" pad="2"/>
-<wire x1="98.79" y1="71.628" x2="-30.48" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-68.8877" y1="86.98" x2="-30.48" y2="87.63" width="0" layer="19" extent="1-1"/>
-<wire x1="-87.21" y1="74.93" x2="-68.8877" y2="86.98" width="0" layer="19" extent="1-1"/>
+<wire x1="97.956" y1="65.532" x2="98.156" y2="66.8557" width="0" layer="19" extent="1-1"/>
+<wire x1="95.758" y1="66.04" x2="97.956" y2="65.532" width="0" layer="19" extent="1-1"/>
+<wire x1="98.79" y1="71.628" x2="95.758" y2="66.04" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$27">
 <contactref element="U10" pad="1"/>
@@ -2678,9 +2678,9 @@ design rules under a new name.</description>
 <contactref element="TP10" pad="1"/>
 <contactref element="R19" pad="1"/>
 <contactref element="J8" pad="2"/>
-<wire x1="50.784" y1="71.628" x2="-41.91" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="-73.9677" y1="86.98" x2="-41.91" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="-93.56" y1="74.93" x2="-73.9677" y2="86.98" width="0" layer="19" extent="1-1"/>
+<wire x1="50.712" y1="65.278" x2="48.514" y2="65.786" width="0" layer="19" extent="1-1"/>
+<wire x1="50.404" y1="66.6017" x2="50.712" y2="65.278" width="0" layer="19" extent="1-1"/>
+<wire x1="50.784" y1="71.628" x2="50.404" y2="66.6017" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$39">
 <contactref element="U11" pad="1"/>
@@ -2693,9 +2693,9 @@ design rules under a new name.</description>
 <contactref element="TP11" pad="1"/>
 <contactref element="R20" pad="1"/>
 <contactref element="J9" pad="2"/>
-<wire x1="57.642" y1="71.628" x2="-18.63" y2="81.28" width="0" layer="19" extent="1-1"/>
-<wire x1="-67.31" y1="82.55" x2="57.642" y2="71.628" width="0" layer="19" extent="1-1"/>
-<wire x1="-79.0477" y1="86.98" x2="-67.31" y2="82.55" width="0" layer="19" extent="1-1"/>
+<wire x1="57.262" y1="66.6017" x2="57.316" y2="65.278" width="0" layer="19" extent="1-1"/>
+<wire x1="55.118" y1="66.04" x2="57.262" y2="66.6017" width="0" layer="19" extent="1-1"/>
+<wire x1="57.642" y1="71.628" x2="55.118" y2="66.04" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$43">
 <contactref element="U12" pad="1"/>
@@ -2708,9 +2708,9 @@ design rules under a new name.</description>
 <contactref element="TP12" pad="1"/>
 <contactref element="R21" pad="1"/>
 <contactref element="J10" pad="2"/>
-<wire x1="-46.99" y1="82.55" x2="-24.98" y2="81.28" width="0" layer="19" extent="1-1"/>
-<wire x1="64.5" y1="71.628" x2="-46.99" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="-84.1277" y1="86.98" x2="-46.99" y2="82.55" width="0" layer="19" extent="1-1"/>
+<wire x1="62.23" y1="66.04" x2="64.682" y2="65.532" width="0" layer="19" extent="1-1"/>
+<wire x1="64.374" y1="67.1097" x2="62.23" y2="66.04" width="0" layer="19" extent="1-1"/>
+<wire x1="64.5" y1="71.628" x2="62.23" y2="66.04" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$46">
 <contactref element="U13" pad="1"/>
@@ -2723,9 +2723,9 @@ design rules under a new name.</description>
 <contactref element="TP13" pad="1"/>
 <contactref element="R22" pad="1"/>
 <contactref element="J11" pad="2"/>
-<wire x1="-52.07" y1="82.55" x2="-31.33" y2="81.28" width="0" layer="19" extent="1-1"/>
-<wire x1="71.358" y1="71.628" x2="-52.07" y2="82.55" width="0" layer="19" extent="1-1"/>
-<wire x1="-89.2077" y1="86.98" x2="-52.07" y2="82.55" width="0" layer="19" extent="1-1"/>
+<wire x1="68.834" y1="66.04" x2="71.032" y2="65.786" width="0" layer="19" extent="1-1"/>
+<wire x1="70.724" y1="67.1097" x2="68.834" y2="66.04" width="0" layer="19" extent="1-1"/>
+<wire x1="71.358" y1="71.628" x2="70.724" y2="67.1097" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$49">
 <contactref element="U14" pad="1"/>
@@ -2736,12 +2736,12 @@ design rules under a new name.</description>
 <signal name="N$51">
 <contactref element="R26" pad="2"/>
 <contactref element="X6" pad="4"/>
-<wire x1="18.494" y1="73.636" x2="44.362" y2="66.294" width="0" layer="19" extent="1-1"/>
+<wire x1="18.494" y1="73.636" x2="18.962" y2="65.786" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$52">
 <contactref element="R25" pad="2"/>
 <contactref element="X6" pad="1"/>
-<wire x1="18.494" y1="70.636" x2="47.752" y2="61.634" width="0" layer="19" extent="1-1"/>
+<wire x1="18.494" y1="70.636" x2="22.352" y2="61.126" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VOUT1">
 <contactref element="R4" pad="1"/>
@@ -2807,7 +2807,7 @@ design rules under a new name.</description>
 <signal name="N$56">
 <contactref element="U16" pad="5"/>
 <contactref element="U15" pad="2"/>
-<wire x1="71.628" y1="28.484" x2="38.989" y2="47.244" width="0" layer="19" extent="1-1"/>
+<wire x1="71.628" y1="28.484" x2="40.259" y2="32.766" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+3V3">
 <contactref element="U16" pad="1"/>
@@ -2816,30 +2816,30 @@ design rules under a new name.</description>
 <contactref element="D15" pad="A"/>
 <contactref element="R23" pad="2"/>
 <contactref element="X6" pad="6"/>
-<wire x1="43.092" y1="64.77" x2="30.099" y2="54.864" width="0" layer="19" extent="1-1"/>
-<wire x1="10.668" y1="61.976" x2="43.092" y2="64.77" width="0" layer="19" extent="1-1"/>
-<wire x1="-55.03" y1="92.71" x2="10.668" y2="61.976" width="0" layer="19" extent="1-1"/>
-<wire x1="-70.095" y1="60.96" x2="-55.03" y2="92.71" width="0" layer="19" extent="1-1"/>
-<wire x1="12.494" y1="73.636" x2="-70.095" y2="60.96" width="0" layer="19" extent="1-1"/>
+<wire x1="31.369" y1="40.386" x2="17.692" y2="64.262" width="0" layer="19" extent="1-1"/>
+<wire x1="10.922" y1="56.896" x2="31.369" y2="40.386" width="0" layer="19" extent="1-1"/>
+<wire x1="12.494" y1="73.636" x2="10.922" y2="56.896" width="0" layer="19" extent="1-1"/>
+<wire x1="81.876" y1="18.796" x2="17.692" y2="64.262" width="0" layer="19" extent="1-1"/>
+<wire x1="25.391" y1="37.592" x2="31.369" y2="40.386" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$57">
 <contactref element="U16" pad="8"/>
 <contactref element="C38" pad="1"/>
-<wire x1="45.212" y1="54.61" x2="38.989" y2="54.864" width="0" layer="19" extent="1-1"/>
+<wire x1="45.212" y1="54.61" x2="40.259" y2="40.386" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+VIN">
 <contactref element="DC3" pad="2"/>
 <contactref element="D14" pad="2"/>
 <contactref element="C39" pad="1"/>
-<wire x1="-35.69" y1="74.93" x2="68.1482" y2="7.0866" width="0" layer="19" extent="1-1"/>
-<wire x1="-17.7938" y1="69.85" x2="-35.69" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="62.36" y1="3.048" x2="68.1482" y2="7.0866" width="0" layer="19" extent="1-1"/>
+<wire x1="62.4702" y1="5.08" x2="68.1482" y2="7.0866" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="-VIN">
 <contactref element="DC3" pad="1"/>
 <contactref element="D14" pad="1"/>
 <contactref element="C39" pad="2"/>
-<wire x1="-32.89" y1="74.93" x2="65.6082" y2="7.0866" width="0" layer="19" extent="1-1"/>
-<wire x1="-20.3062" y1="69.85" x2="-32.89" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="59.56" y1="3.048" x2="65.6082" y2="7.0866" width="0" layer="19" extent="1-1"/>
+<wire x1="59.9578" y1="5.08" x2="65.6082" y2="7.0866" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+5V">
 <contactref element="DC3" pad="6"/>
@@ -2847,29 +2847,29 @@ design rules under a new name.</description>
 <contactref element="DC4" pad="3"/>
 <contactref element="DC4" pad="1"/>
 <contactref element="C41" pad="1"/>
-<wire x1="-42.04" y1="74.93" x2="-31.18" y2="97.79" width="0" layer="19" extent="1-1"/>
-<wire x1="82.833" y1="18.984" x2="-42.04" y2="74.93" width="0" layer="19" extent="1-1"/>
-<wire x1="82.833" y1="17.084" x2="82.833" y2="18.984" width="0" layer="19" extent="1-1"/>
-<wire x1="78.3082" y1="7.0866" x2="82.833" y2="17.084" width="0" layer="19" extent="1-1"/>
+<wire x1="85.373" y1="16.83" x2="85.373" y2="18.73" width="0" layer="19" extent="1-1"/>
+<wire x1="83.566" y1="16.38" x2="85.373" y2="16.83" width="0" layer="19" extent="1-1"/>
+<wire x1="78.3082" y1="7.0866" x2="83.566" y2="16.38" width="0" layer="19" extent="1-1"/>
+<wire x1="80.072" y1="17.018" x2="83.566" y2="16.38" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$58">
 <contactref element="DC4" pad="5"/>
 <contactref element="R27" pad="1"/>
 <contactref element="C42" pad="1"/>
-<wire x1="-49.11" y1="74.93" x2="-56.73" y2="92.71" width="0" layer="19" extent="1-1"/>
-<wire x1="85.315" y1="18.984" x2="-49.11" y2="74.93" width="0" layer="19" extent="1-1"/>
+<wire x1="80.176" y1="18.796" x2="87.855" y2="18.73" width="0" layer="19" extent="1-1"/>
+<wire x1="77.978" y1="18.63" x2="80.176" y2="18.796" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$3">
 <contactref element="J1" pad="2"/>
 <contactref element="R3" pad="2"/>
-<wire x1="42.672" y1="59.69" x2="43.942" y2="48.602" width="0" layer="19" extent="1-1"/>
+<wire x1="17.272" y1="59.182" x2="43.942" y2="48.602" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$4">
 <contactref element="R3" pad="1"/>
 <contactref element="CAN3" pad="7"/>
 <contactref element="CAN4" pad="7"/>
 <contactref element="U16" pad="7"/>
-<wire x1="43.942" y1="46.902" x2="38.989" y2="52.324" width="0" layer="19" extent="1-1"/>
+<wire x1="43.942" y1="46.902" x2="40.259" y2="37.846" width="0" layer="19" extent="1-1"/>
 <wire x1="19.05" y1="42.672" x2="43.942" y2="46.902" width="0" layer="19" extent="1-1"/>
 <wire x1="19.05" y1="24.13" x2="19.05" y2="42.672" width="0" layer="19" extent="1-1"/>
 </signal>
@@ -2878,9 +2878,9 @@ design rules under a new name.</description>
 <contactref element="CAN3" pad="8"/>
 <contactref element="U16" pad="6"/>
 <contactref element="J1" pad="1"/>
-<wire x1="21.59" y1="41.402" x2="38.989" y2="49.784" width="0" layer="19" extent="1-1"/>
+<wire x1="21.59" y1="41.402" x2="40.259" y2="35.306" width="0" layer="19" extent="1-1"/>
 <wire x1="21.59" y1="22.86" x2="21.59" y2="41.402" width="0" layer="19" extent="1-1"/>
-<wire x1="40.132" y1="59.69" x2="38.989" y2="49.784" width="0" layer="19" extent="1-1"/>
+<wire x1="14.732" y1="59.182" x2="40.259" y2="35.306" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$7">
 <contactref element="X1" pad="3"/>
